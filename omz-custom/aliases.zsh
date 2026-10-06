@@ -13,3 +13,4 @@ alias pea='eval $(poetry env activate)'
 alias ui='uv init'
 alias ur='uv run'
 alias uprc="uv run pre-commit run"
+alias us="uv sync"
